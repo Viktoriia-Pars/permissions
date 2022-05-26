@@ -1,0 +1,7 @@
+.idea/
+venv/
+README.md
+manage.py
+request-examples.http
+requirements.txt
+restrict
